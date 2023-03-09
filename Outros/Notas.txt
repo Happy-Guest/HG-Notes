@@ -1,0 +1,41 @@
+
+ Notas:
+
+  - API para conexão entre mobile e web? (Laravel)
+  - App Mobile? (Android? Java?)
+  - Dashboard Web (Vue)
+  - Notificações no Dashboard - IMPORTANTE
+
+  Primeira tarefa -> fazer planeamento
+  Segunda -> ver aplicações semelhantes e guardar as palavras chave
+  Terceira -> lista de requisitos
+
+«-------»
+
+ Relatório:
+
+  1ª Semana:
+   Escolha da Metodologia
+   Decisão entre Android e IOS
+   Aplicações Semelhantes (Concorrência)
+   Hoteis Estrelas - Visualizar Mercado 
+   Lista de Requisitos
+
+  2ª Semana:
+   Analise de dados 
+
+  Base de dados - contrução passo a passo
+
+«-------»
+
+ App Mobile:
+
+  Instalação
+  Login/Registo
+  Registo -> Criar Perfil
+  Código de Acesso (Dado pelo Hotel)
+  
+  User -> Quartos(id, idCódigo, idUser) -> Códigos(id, código, numQuarto, dataEntrada, dataSaída)
+  (1, Diogo, diogo@mail.pt) -> (1, 1, 1) -> (1, XPT8372, 130, 09/03, 12/03)
+
+  Página para inserir email e respetivo(s) quarto(s)? (Atualizar estadia? (data caso pretenda ficar mais dias))
