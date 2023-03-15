@@ -9,6 +9,8 @@ melhorar os serviços e a comunicação entre o cliente e a unidade hoteleira.
 
 2. Planeamento: https://my.visme.co/view/6xq0x0vr-g8n5opgggrje2qvz
 
+3. Jira: https://2201747.atlassian.net/jira/software/projects/HG/code
+
 ## 🧑 Participantes:
 * Diogo Mendes nº2191181 -> 2191181@ipleiria.pt
 * Tomás Neves nº221747 -> 221747@ipleiria.pt
