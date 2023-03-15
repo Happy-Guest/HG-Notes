@@ -10,6 +10,10 @@
   Segunda -> ver aplicações semelhantes e guardar as palavras chave
   Terceira -> lista de requisitos
 
+  Revisão de Requisitos
+  User Stories
+  Protótipos
+  28 - 18h
 «-------»
 
  Relatório:
