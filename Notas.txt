@@ -38,7 +38,7 @@
   Registo -> Criar Perfil
   Código de Acesso (Dado pelo Hotel) = Reserva
   
-  User -> Quartos(id, idCódigo, idUser) -> Códigos(id, código, numQuartos[], dataEntrada, dataSaída, utilizado)
-  (1, Diogo, diogo@mail.pt) -> (1, 1, 1) -> (1, XPT8372, 130, 09/03, 12/03, true)
+  User -> Códigos(id, código, numQuartos[], dataEntrada, dataSaída, utilizado)
+  (1, Diogo, diogo@mail.pt) -> (1, XPT8372, [130], 09/03, 12/03, true)
 
   Página para inserir email e respetivo(s) quarto(s)? (Atualizar estadia? (data caso pretenda ficar mais dias))
