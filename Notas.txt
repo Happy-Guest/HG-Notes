@@ -18,14 +18,14 @@
    Diagrama de Comunicação entre Apps
    Lista de Requisitos
 
-  2ª Semana:
+  2ª/3º Semana:
    Revisão dos Requisitos
    Criação das User Stories
    Contrução de Protótipos
 
-  3º Semana:
-   Instalação da Base para API (Laravel)
-   Contrução do Diagrama UML
+  4º Semana:
+   Critérios de Aceitação nas User Stories
+   User Stories & semelhantes
 
 
   Base de dados - contrução passo a passo
