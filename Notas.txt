@@ -5,7 +5,7 @@
 
 «-------»
 
- Relatório:
+ Relatório Semanal:
 
   1ª Semana: (08/03 a 15/03)
    Escolha da Metodologia
@@ -29,6 +29,7 @@
    Continuação das User Stories
    Critérios de Aceitação / Testes nas User Stories
    Contrução de Protótipos
+   Inicio de Relatório
    Instalação Base da API
 
 
