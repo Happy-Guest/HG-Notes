@@ -7,10 +7,10 @@
 
  Relatório:
 
-  1ª Semana:
+  1ª Semana: (08/03 a 15/03)
    Escolha da Metodologia
    Decisão entre Android e IOS
-   Esoclha de API e Framework
+   Escolha de API e Framework
    Planeamento & Entrega
    Hotéis Estrelas - Visualizar Mercado 
    Público-Alvo (Clientes)
@@ -18,14 +18,18 @@
    Diagrama de Comunicação entre Apps
    Lista de Requisitos
 
-  2ª/3º Semana:
+  2ª/3º Semana: (15/03 a 28/03)
+   Desenvolvimento de Logotipo
+   Funcionalidades da Aplicação
    Revisão dos Requisitos
    Criação das User Stories
-   Contrução de Protótipos
+   Inicio de Protótipos
 
-  4º Semana:
-   Critérios de Aceitação nas User Stories
-   User Stories & semelhantes
+  4º/5ª Semana: (28/03 a 11/04)
+   Continuação das User Stories
+   Critérios de Aceitação / Testes nas User Stories
+   Contrução de Protótipos
+   Instalação Base da API
 
 
   Base de dados - contrução passo a passo
