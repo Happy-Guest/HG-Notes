@@ -30,7 +30,7 @@
    Critérios de Aceitação / Testes nas User Stories
    Contrução de Protótipos
    Inicio de Relatório
-   Instalação Base da API (Laravel & Passport)
+   Instalação Base da API (Laravel & Passport & Lang PT)
 
 
   Base de dados - contrução passo a passo
