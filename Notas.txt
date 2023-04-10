@@ -1,7 +1,12 @@
 
  Notas:
+  -> Notificações no Dashboard - IMPORTANTE
 
-  - Notificações no Dashboard - IMPORTANTE
+ Perguntas:
+  -> Imagens na App
+  -> Verificação de Email / Reset Password Email?
+  -> Atividades / Serviços na App
+  -> Checkout?
 
 «-------»
 
@@ -30,7 +35,8 @@
    Critérios de Aceitação / Testes nas User Stories
    Contrução de Protótipos
    Inicio de Relatório
-   Instalação Base da API (Laravel & Passport & Lang PT)
+   Instalação Base da API (Laravel & Passport & Lang PT) 
+   Autenticação API
 
 
   Base de dados - contrução passo a passo
