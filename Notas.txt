@@ -7,6 +7,9 @@
   -> Verificação de Email / Reset Password Email?
   -> Atividades / Serviços na App
   -> Checkout?
+  -> Foto no user?
+  -> Fotos nas reclamações?
+  -> Dados nos clientes
 
 «-------»
 
@@ -37,6 +40,7 @@
    Inicio de Relatório
    Instalação Base da API (Laravel & Passport & Lang PT) 
    Autenticação API
+   Inicio Diagrama UML
 
 
   Base de dados - contrução passo a passo
