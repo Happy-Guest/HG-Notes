@@ -37,10 +37,9 @@
    Continuação das User Stories
    Critérios de Aceitação / Testes nas User Stories
    Contrução de Protótipos
-   Inicio de Relatório
+   Inicio Diagrama UML
    Instalação Base da API (Laravel & Passport & Lang PT) 
    Autenticação API
-   Inicio Diagrama UML
 
 
   Base de dados - contrução passo a passo
