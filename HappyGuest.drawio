@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T13:32:50.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UxUDu3AITTYdhrRj13Ij" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-11T14:25:14.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="d_U47mTjdgLFQqBWQYGz" version="21.1.1" type="github" pages="2">
   <diagram name="Diagrama UML" id="d98n4tv-miH-dXghjo9B">
     <mxGraphModel dx="1035" dy="532" grid="1" gridSize="50" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -335,9 +335,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PiuYwr2e14SXXetzwPkd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.35;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiuYwr2e14SXXetzwPkd-8" target="fhK9WfQGRRtwk0DWkfeq-1">
+        <mxCell id="PiuYwr2e14SXXetzwPkd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiuYwr2e14SXXetzwPkd-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="699" y="600" as="targetPoint" />
+            <mxPoint x="720" y="550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="600" y="504" />
               <mxPoint x="600" y="550" />
@@ -345,17 +345,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PiuYwr2e14SXXetzwPkd-17" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;*&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=80;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="693.0041463414634" y="598" as="geometry" />
-        </mxCell>
         <mxCell id="PiuYwr2e14SXXetzwPkd-18" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;*&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="556.0041463414634" y="510" as="geometry" />
         </mxCell>
         <mxCell id="PiuYwr2e14SXXetzwPkd-19" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;*&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-180;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="557.5041463414634" y="473" as="geometry" />
         </mxCell>
-        <mxCell id="PiuYwr2e14SXXetzwPkd-20" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;*&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="625.0041463414634" y="380" as="geometry" />
+        <mxCell id="PiuYwr2e14SXXetzwPkd-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="628.996991147933" y="372.00333333333333" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
