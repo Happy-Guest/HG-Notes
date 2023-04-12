@@ -3,13 +3,6 @@
   -> Notificações no Dashboard - IMPORTANTE
 
  Perguntas:
-  -> Imagens na App
-  -> Verificação de Email / Reset Password Email?
-  -> Atividades / Serviços na App
-  -> Checkout?
-  -> Foto no user?
-  -> Fotos nas reclamações?
-  -> Dados nos clientes
 
 «-------»
 
