@@ -34,8 +34,12 @@
    Instalação Base da API (Laravel & Passport & Lang PT) 
    Autenticação API
 
+  6ª Semana: (11/04 a 18/04)
+   Implementação API - Parte User (Requests, Middlewares, etc.)
+   Implementação API - Parte Código
+   Protótipo Atualização
+   UML Atualização
 
-  Base de dados - contrução passo a passo
 
 «-------»
 
