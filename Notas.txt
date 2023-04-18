@@ -1,6 +1,10 @@
 
  Notas:
-  -> Notificações no Dashboard - IMPORTANTE
+  -> Notificações no Dashboard
+  -> Dashboard: Partilha de avaliações no tripadvisor
+  -> Agradecimento no check-out e pedir avaliação
+  -> Caso não tenha reclamação abre "criar nova"
+  -> Partilhar reclamação para "equipa" por email
 
  Perguntas:
 
