@@ -44,6 +44,10 @@
    Protótipo Atualização
    UML Atualização
 
+  7ª Semana: (18/04 a 02/05)
+   Implementação API - (Códigos, Middleware, etc.)
+   Início Dashboard Web
+
 
 «-------»
 
