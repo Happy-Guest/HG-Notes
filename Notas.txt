@@ -6,8 +6,6 @@
   -> Caso não tenha reclamação abre "criar nova"
   -> Partilhar reclamação para "equipa" por email
 
- Perguntas:
-
 «-------»
 
  Relatório Semanal:
@@ -46,18 +44,35 @@
 
   7ª Semana: (18/04 a 02/05)
    Implementação API - (Códigos, Middleware, etc.)
-   Início Dashboard Web
-
+   Início Dashboard Web - Template & Configurações
+   Autenticação Dashboard
 
 «-------»
 
- App Mobile:
+ Pacotes Utilizados (API):
+    -> Laravel: (https://laravel.com/docs/10.x/installation#your-first-laravel-project)
+	1. composer create-project laravel/laravel happyguest-api
+	2. ficheiro .env
+	3. php artisan key:generate
+	4. instalar passport
+	5. php artisan storage:link
 
-  Login/Registo
-  Registo -> Criar Perfil
-  Código de Acesso (Dado pelo Hotel) = Reserva
-  
-  User -> Códigos(id, código, numQuartos[], dataEntrada, dataSaída, utilizado)
-  (1, Diogo, diogo@mail.pt) -> (1, XPT8372, [130], 09/03, 12/03, true)
+    -> Laravel Passport: (https://laravel.com/docs/10.x/passport#installation)
+	1. composer require laravel/passport
+	2. php artisan migrate
+	3. php artisan passport:install
 
-  Página para inserir email e respetivo(s) quarto(s)? (Atualizar estadia? (data caso pretenda ficar mais dias))
+    -> Lang PT: (https://laravel-lang.com/installation/)
+	1. composer require laravel-lang/common --dev
+	2. php artisan lang:add pt
+	3. php artisan lang:update
+
+    -> Laravel Cascade Soft Deletes: (https://github.com/michaeldyrynda/laravel-cascade-soft-deletes)
+	1. composer require dyrynda/laravel-cascade-soft-deletes
+
+«-------»
+
+ Dashboard (WEB):
+    -> Template: (https://github.com/justboil/admin-one-vue-tailwind)
+	1. npm install
+	2. npm run dev
