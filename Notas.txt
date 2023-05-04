@@ -46,6 +46,11 @@
    Implementação API - (Códigos, Middleware, etc.)
    Início Dashboard Web - Template & Configurações
    Autenticação Dashboard
+   Códigos e Users no Dashboard
+
+  8ª Semana: (02/05 a 09/05)
+   Implementação API - (Users, etc.)
+   Implementação Dashboard - (Registo, Perfil, etc.)
 
 «-------»
 
