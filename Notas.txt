@@ -5,6 +5,7 @@
   -> Agradecimento no check-out e pedir avaliação
   -> Caso não tenha reclamação abre "criar nova"
   -> Partilhar reclamação para "equipa" por email
+  -> Dash Códigos (mostrar código QR e enviar para um email?)
 
 «-------»
 
@@ -45,12 +46,15 @@
   7ª Semana: (18/04 a 02/05)
    Implementação API - (Códigos, Middleware, etc.)
    Início Dashboard Web - Template & Configurações
-   Autenticação Dashboard
-   Códigos e Users no Dashboard
+   Autenticação no Dashboard
+   Inicio de Códigos e Users no Dashboard
 
-  8ª Semana: (02/05 a 09/05)
-   Implementação API - (Users, etc.)
-   Implementação Dashboard - (Registo, Perfil, etc.)
+  8ª Semana: (02/05 a 10/05)
+   Implementação API - (Users, Códigos, Reclamações e UserCodes)
+   Implementação Dashboard - (Auth, Users, Códigos e Reclamações)
+   Autorizações e tipos de utilizadores na API e Dashboard
+
+  9º Semana: (11/05 a 17/05)
 
 «-------»
 
