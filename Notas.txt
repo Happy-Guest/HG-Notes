@@ -55,6 +55,9 @@
    Autorizações e tipos de utilizadores na API e Dashboard
 
   9º Semana: (11/05 a 17/05)
+   Implementação API - (Reclamações e Fotos)
+   Implementação Dashboard - (Melhorias, Bugs, Fotos, Reclamações)
+   Relatório
 
 «-------»
 
