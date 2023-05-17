@@ -43,20 +43,27 @@
    Protótipo Atualização
    UML Atualização
 
-  7ª Semana: (18/04 a 02/05)
+  7/8ª Semana: (18/04 a 02/05)
    Implementação API - (Códigos, Middleware, etc.)
    Início Dashboard Web - Template & Configurações
    Autenticação no Dashboard
    Inicio de Códigos e Users no Dashboard
 
-  8ª Semana: (02/05 a 10/05)
+  9ª Semana: (02/05 a 10/05)
    Implementação API - (Users, Códigos, Reclamações e UserCodes)
    Implementação Dashboard - (Auth, Users, Códigos e Reclamações)
    Autorizações e tipos de utilizadores na API e Dashboard
 
-  9º Semana: (11/05 a 17/05)
-   Implementação API - (Reclamações e Fotos)
-   Implementação Dashboard - (Melhorias, Bugs, Fotos, Reclamações)
+  10º Semana: (11/05 a 17/05)
+   Implementação API - (Reclamações, Fotos, Avaliações, Melhorias, Bugs e Início Estatísticas)
+   Implementação Dashboard - (Reclamações, Fotos, Avaliações, Melhorias, Bugs e Início Estatísticas)
+   Inicio de Implementação Android - (Landing Page, Login e Registo)
+   Relatório   
+
+  11/12ºSemana: (18/05 a 31/05)
+   Iniciar Sprint (Login e Registo e Perfil)
+   Implementação Dashboard - (Filtros e Ordenações)
+   Colocação API em Servidor
    Relatório
 
 «-------»
