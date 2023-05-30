@@ -61,9 +61,10 @@
    Relatório   
 
   11/12ºSemana: (18/05 a 31/05)
-   Iniciar Sprint Android (Login, Registo e Perfil)
+   Iniciar Sprint Android (Login, Registo, Lembrar & Terminar Sessão)
    Desenvolvimento do Android (Base, Interface e Ligação API)
-   Implementação Dashboard - (Filtros, Ordenações e Otimizações)
+   Implementação Dashboard - (Filtros, Ordenações, Otimizações, CheckOuts e Gráfico)
+   Implementação API - (CheckOuts)
    Colocação API em Servidor
    Relatório
 
