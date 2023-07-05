@@ -6,6 +6,8 @@
   -> Caso não tenha reclamação abre "criar nova"
   -> Partilhar reclamação para "equipa" por email
   -> Dash Códigos (mostrar código QR e enviar para um email?)
+  -> Testes de Usabilidade (lista de tarefas, tempo, dificuldade, satisfação) -> Questionário Pessoas
+  -> Acessibilidade da App
 
 «-------»
 
@@ -68,13 +70,18 @@
    Colocação API em Servidor
    Relatório
 
-  13/14ºSemana: (01/06 a 14/06)
-   Iniciar Sprint 2 Android (Perfil, Atualizar Perfil, Atualizar Password, Apagar Perfil)
+  13/14ºSemana: (01/06 a 17/06)
+   Iniciar Sprint 2 Android (Perfil, Atualizar Perfil, Atualizar Password, Apagar Perfil, Inserir e Ver Códigos)
    Desenvolvimento do Android (Perfil, Otimizações, etc.)
    Melhorias e Otimizações na API
 
-  15ºSemana: (15/06 a 22/06)
-   Iniciar Sprint 
+  15ºSemana: (18/06 a 25/06)
+   Iniciar Sprint 3 (Alterações e Avaliações)
+   Melhorias e Otimizações na API
+
+  16ºSemana: (26/06 a 07/07)
+   Iniciar Sprint 4 (Serviços, Pedidos, etc.)
+   Implementação API (Revisão, Serviços, Pedidos, Reservas, etc.)
 
 «-------»
 
