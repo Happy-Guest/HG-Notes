@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T15:05:42.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="r9sLZXQ-b_VyguqKgqgy" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-07T15:09:56.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qkZmaHWpdWypesiMP_zs" version="21.6.1" type="github" pages="2">
   <diagram name="Diagrama UML" id="d98n4tv-miH-dXghjo9B">
-    <mxGraphModel dx="1687" dy="899" grid="0" gridSize="50" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="548" dy="488" grid="0" gridSize="50" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,7 +540,7 @@
         <mxCell id="wjEVWVlTxAmyyXRxczCE-15" value="+ comodities: VARCHAR(255)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="K1XTzJCaU-l9ZM2Ssekk-1">
           <mxGeometry y="338" width="212" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wjEVWVlTxAmyyXRxczCE-16" value="+comoditiesEN: VARCHAR(255)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="K1XTzJCaU-l9ZM2Ssekk-1">
+        <mxCell id="wjEVWVlTxAmyyXRxczCE-16" value="+ comoditiesEN: VARCHAR(255)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="K1XTzJCaU-l9ZM2Ssekk-1">
           <mxGeometry y="364" width="212" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wjEVWVlTxAmyyXRxczCE-17" value="+ created_at: TIMESTAMP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="K1XTzJCaU-l9ZM2Ssekk-1">
