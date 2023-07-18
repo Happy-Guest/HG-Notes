@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T11:13:45.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XHBhzxRF7u6eo_aj23eF" version="21.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-18T13:04:32.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nNYhOpDHaXL3ZBi_wkZ1" version="21.6.2" type="github" pages="2">
   <diagram name="Diagrama UML" id="d98n4tv-miH-dXghjo9B">
-    <mxGraphModel dx="2200" dy="1130" grid="0" gridSize="50" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="452" grid="0" gridSize="50" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -555,7 +555,7 @@
         <mxCell id="Eo_gSkdJbfchW9OjK7FY-3" value="+ descriptionEN: VARCHAR(255) NN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="K1XTzJCaU-l9ZM2Ssekk-8" vertex="1">
           <mxGeometry y="78" width="211" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Eo_gSkdJbfchW9OjK7FY-4" value="+ proximities: JSON" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="K1XTzJCaU-l9ZM2Ssekk-8" vertex="1">
+        <mxCell id="Eo_gSkdJbfchW9OjK7FY-4" value="+ proximity: JSON" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="K1XTzJCaU-l9ZM2Ssekk-8" vertex="1">
           <mxGeometry y="104" width="211" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Eo_gSkdJbfchW9OjK7FY-5" value="+ activities: JSON" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="K1XTzJCaU-l9ZM2Ssekk-8" vertex="1">
