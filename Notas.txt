@@ -106,6 +106,9 @@
     -> Laravel Cascade Soft Deletes: (https://github.com/michaeldyrynda/laravel-cascade-soft-deletes)
 	1. composer require dyrynda/laravel-cascade-soft-deletes
 
+
+    -> @types/qrcode
+    -> Google Firebase (Notifications)
 «-------»
 
  Dashboard (WEB):
