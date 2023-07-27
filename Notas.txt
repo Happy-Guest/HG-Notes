@@ -109,6 +109,7 @@
 
     -> @types/qrcode
     -> Google Firebase (Notifications)
+    -> implementation 'com.google.zxing:core:3.4.1'
 «-------»
 
  Dashboard (WEB):
